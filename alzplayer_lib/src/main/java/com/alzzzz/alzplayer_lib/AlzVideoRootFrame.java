@@ -151,7 +151,7 @@ public class AlzVideoRootFrame extends FrameLayout implements SurfaceHolder.Call
 
     private void showControls() {
         //controller订制，不显示
-//        controller.show(0);
+        controller.show(0);
     }
 
     @Override

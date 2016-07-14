@@ -1,1 +1,1 @@
-include ':app', ':alzplayer_lib', ':common', ':commonwidget', ':videowidget'
+include ':demo', ':alzplayer_lib', ':common', ':commonwidget', ':videowidget'
